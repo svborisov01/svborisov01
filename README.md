@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me
+
+I am current MSc Data Science student at Skoltech. My main area of interest is the intersection of mathematics, statistics, computer science and finance. 
 
 <!--
 **svborisov01/svborisov01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
